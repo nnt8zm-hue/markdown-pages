@@ -12,3 +12,5 @@ Caffeine is a stimulant that blocks adenosine and increases alertness.
 |-------|--------|
 | Coffee | 95 |
 | Energy Drink | 180 |
+
+[Home](README.md) | [Next → Energy Drinks](drinks.md)
